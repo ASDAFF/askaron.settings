@@ -1,0 +1,7 @@
+<?
+$MESS ['ASKARON_SETTINGS_MENU_MAIN'] = "Settings++";
+$MESS ['ASKARON_SETTINGS_MENU_MAIN_TITLE'] = "Settings++";
+
+$MESS ['ASKARON_SETTINGS_MENU_EDIT'] = "Edit options";
+$MESS ['ASKARON_SETTINGS_MENU_EDIT_TITLE'] = "Edit options";
+?>
